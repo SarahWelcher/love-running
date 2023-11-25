@@ -175,3 +175,9 @@ hr {
     border-radius: 50%;
     margin: 0 auto;
 }
+
+#circle-cover-bg {
+    background: url("../images/center.png") no-repeat center center;
+    border-radius: 50%;
+    height: 100%;
+}
