@@ -223,3 +223,17 @@ footer {
     padding: 5%;
     color: #777777;
 }
+
+/* gallery section */
+
+#photo {
+    clear: both;
+    line-height: 0px;
+    column-count: 4;
+    column-gap: 0px;
+}
+
+#photo img {
+    width: 100%;
+    
+}
