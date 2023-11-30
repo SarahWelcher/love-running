@@ -316,4 +316,16 @@ footer {
         padding: 0 20px 0 20px;
     }
 
+    #photo {
+        column-count: 3;
+    }
+
+}
+
+/* responsive design - gallery for mobile */
+
+@media screen and (max-width: 800px) {
+    #photo {
+        column-count: 2;
+    }
 }
